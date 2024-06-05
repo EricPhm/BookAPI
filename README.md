@@ -23,17 +23,17 @@ A book edition is a sub-entity of a book. It has the following attributes:
     Publication date
 
 
-endpoints - Write endpoints for the following actions a client can request from the server.
-Add an author
-List all authors
-Update a specific author's bio
-Add a book
-List all books
-List all books that match a given list of tags
-List all books by a specific author
-Get the details of a specific book
-Update any of the attributes of a specific book
-Remove a book (and by extension all its editions)
-Add an edition of a specific book
-List editions of a specific book
-Remove an edition of a specific book
+    endpoints - Write endpoints for the following actions a client can request from the server.
+1. Add an author
+2. List all authors
+3. Update a specific author's bio
+4. Add a book
+5. List all books
+6. List all books that match a given list of tags
+7. List all books by a specific author
+8. Get the details of a specific book
+9. Update any of the attributes of a specific book
+10. Remove a book (and by extension all its editions)
+11. Add an edition of a specific book
+12. List editions of a specific book
+13. Remove an edition of a specific book
