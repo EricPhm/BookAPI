@@ -1,7 +1,7 @@
     REST Service
 Write an Express.js server that manages the following entities through the following endpoints.
 
-Entities:
+
     Author
 An author has the following attributes:
     Full name
